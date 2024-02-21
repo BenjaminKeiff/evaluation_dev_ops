@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EvaluationSampleCode
-build_property.ProjectDir = C:\Users\Benjamin\Desktop\PratiqueWithCode_Groupe2_Subject\EvaluationSampleCode\
+build_property.ProjectDir = C:\Users\Benjamin\Desktop\Evaluation\evaluation_dev_ops\EvaluationSampleCode\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

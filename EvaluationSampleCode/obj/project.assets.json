@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Benjamin\\Desktop\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\EvaluationSampleCode.csproj",
+      "projectUniqueName": "C:\\Users\\Benjamin\\Desktop\\Evaluation\\evaluation_dev_ops\\EvaluationSampleCode\\EvaluationSampleCode.csproj",
       "projectName": "EvaluationSampleCode",
-      "projectPath": "C:\\Users\\Benjamin\\Desktop\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\EvaluationSampleCode.csproj",
+      "projectPath": "C:\\Users\\Benjamin\\Desktop\\Evaluation\\evaluation_dev_ops\\EvaluationSampleCode\\EvaluationSampleCode.csproj",
       "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Benjamin\\Desktop\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\obj\\",
+      "outputPath": "C:\\Users\\Benjamin\\Desktop\\Evaluation\\evaluation_dev_ops\\EvaluationSampleCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config",
