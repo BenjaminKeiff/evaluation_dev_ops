@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Benjamin\\Desktop\\Evaluation\\evaluation_dev_ops\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E5C777C-C8A2-490C-BCA6-9BCAFA44B556}|TestEvaluation.UnitTests\\TestEvaluation.UnitTests.csproj|c:\\users\\benjamin\\desktop\\evaluation\\evaluation_dev_ops\\testevaluation.unittests\\htmlformathelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E5C777C-C8A2-490C-BCA6-9BCAFA44B556}|TestEvaluation.UnitTests\\TestEvaluation.UnitTests.csproj|solutionrelative:testevaluation.unittests\\htmlformathelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E5C777C-C8A2-490C-BCA6-9BCAFA44B556}|TestEvaluation.UnitTests\\TestEvaluation.UnitTests.csproj|c:\\users\\benjamin\\desktop\\evaluation\\evaluation_dev_ops\\testevaluation.unittests\\baptizmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5C777C-C8A2-490C-BCA6-9BCAFA44B556}|TestEvaluation.UnitTests\\TestEvaluation.UnitTests.csproj|solutionrelative:testevaluation.unittests\\baptizmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\benjamin\\desktop\\evaluation\\evaluation_dev_ops\\evaluationsamplecode\\htmlformathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\htmlformathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E5C777C-C8A2-490C-BCA6-9BCAFA44B556}|TestEvaluation.UnitTests\\TestEvaluation.UnitTests.csproj|c:\\users\\benjamin\\desktop\\evaluation\\evaluation_dev_ops\\testevaluation.unittests\\htmlformathelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5C777C-C8A2-490C-BCA6-9BCAFA44B556}|TestEvaluation.UnitTests\\TestEvaluation.UnitTests.csproj|solutionrelative:testevaluation.unittests\\htmlformathelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E5C777C-C8A2-490C-BCA6-9BCAFA44B556}|TestEvaluation.UnitTests\\TestEvaluation.UnitTests.csproj|c:\\users\\benjamin\\desktop\\evaluation\\evaluation_dev_ops\\testevaluation.unittests\\mathoperationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{7E5C777C-C8A2-490C-BCA6-9BCAFA44B556}|TestEvaluation.UnitTests\\TestEvaluation.UnitTests.csproj|solutionrelative:testevaluation.unittests\\phonenumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\benjamin\\desktop\\evaluation\\evaluation_dev_ops\\evaluationsamplecode\\htmlformathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\htmlformathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\benjamin\\desktop\\evaluation\\evaluation_dev_ops\\evaluationsamplecode\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\benjamin\\desktop\\evaluation\\evaluation_dev_ops\\evaluationsamplecode\\baptizm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\baptizm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E5C777C-C8A2-490C-BCA6-9BCAFA44B556}|TestEvaluation.UnitTests\\TestEvaluation.UnitTests.csproj|c:\\users\\benjamin\\desktop\\evaluation\\evaluation_dev_ops\\testevaluation.unittests\\baptizmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E5C777C-C8A2-490C-BCA6-9BCAFA44B556}|TestEvaluation.UnitTests\\TestEvaluation.UnitTests.csproj|solutionrelative:testevaluation.unittests\\baptizmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\benjamin\\desktop\\evaluation\\evaluation_dev_ops\\evaluationsamplecode\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,13 +53,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "BaptizmTests.cs",
               "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\Evaluation\\evaluation_dev_ops\\TestEvaluation.UnitTests\\BaptizmTests.cs",
               "RelativeDocumentMoniker": "TestEvaluation.UnitTests\\BaptizmTests.cs",
               "ToolTip": "C:\\Users\\Benjamin\\Desktop\\Evaluation\\evaluation_dev_ops\\TestEvaluation.UnitTests\\BaptizmTests.cs",
               "RelativeToolTip": "TestEvaluation.UnitTests\\BaptizmTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-21T15:23:13.241Z",
               "EditorCaption": ""
@@ -92,13 +92,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HtmlFormatHelperTests.cs",
               "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\Evaluation\\evaluation_dev_ops\\TestEvaluation.UnitTests\\HtmlFormatHelperTests.cs",
               "RelativeDocumentMoniker": "TestEvaluation.UnitTests\\HtmlFormatHelperTests.cs",
               "ToolTip": "C:\\Users\\Benjamin\\Desktop\\Evaluation\\evaluation_dev_ops\\TestEvaluation.UnitTests\\HtmlFormatHelperTests.cs",
               "RelativeToolTip": "TestEvaluation.UnitTests\\HtmlFormatHelperTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-21T15:24:12.162Z",
               "EditorCaption": ""
@@ -131,12 +131,11 @@
               "RelativeToolTip": "EvaluationSampleCode\\PhoneNumber.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T14:06:57.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T14:06:57.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Baptizm.cs",
               "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\Evaluation\\evaluation_dev_ops\\EvaluationSampleCode\\Baptizm.cs",
               "RelativeDocumentMoniker": "EvaluationSampleCode\\Baptizm.cs",
@@ -144,12 +143,11 @@
               "RelativeToolTip": "EvaluationSampleCode\\Baptizm.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T15:23:35.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T15:23:35.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MathOperations.cs",
               "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\Evaluation\\evaluation_dev_ops\\EvaluationSampleCode\\MathOperations.cs",
               "RelativeDocumentMoniker": "EvaluationSampleCode\\MathOperations.cs",
@@ -157,12 +155,11 @@
               "RelativeToolTip": "EvaluationSampleCode\\MathOperations.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T14:06:57.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T14:06:57.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HtmlFormatHelper.cs",
               "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\Evaluation\\evaluation_dev_ops\\EvaluationSampleCode\\HtmlFormatHelper.cs",
               "RelativeDocumentMoniker": "EvaluationSampleCode\\HtmlFormatHelper.cs",
